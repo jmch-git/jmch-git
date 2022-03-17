@@ -5,9 +5,6 @@ I love to code, sing and create new things that add value, inspiration and joy t
 
 ![logo_skinny](https://user-images.githubusercontent.com/94821167/158718513-5205b928-c889-44ce-b8ac-a03114d66c8f.png)
 
-![Alt text](https://user-images.githubusercontent.com/94821167/158840316-43c434d5-5de9-46db-a4c0-28330923495f.svg)
-
-
 
 <!--
 **jmch-git/jmch-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
