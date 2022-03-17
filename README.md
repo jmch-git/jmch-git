@@ -1,9 +1,10 @@
 ### Hi there 👋
 I'm June Holmberg
 
-I love to code, sing and create new things that add value and joy to people's lives.  
+I love to code, sing and create new things that add value, inspiration and joy to people's lives.  
 
-![June_Logo_Smaller](https://user-images.githubusercontent.com/94821167/158715920-ccb81092-9c68-4482-9411-6b40388e9449.png)
+![logo_skinny](https://user-images.githubusercontent.com/94821167/158718513-5205b928-c889-44ce-b8ac-a03114d66c8f.png)
+
 
 
 
